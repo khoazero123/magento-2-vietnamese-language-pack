@@ -6698,7 +6698,7 @@ Options,"Tùy chọn",module,Magento_Multishipping
 "Failed Messages Lifetime","Dòng đời tin nhắn thất bại",module,Magento_MysqlMq
 "New Messages Lifetime","Dòng đời tin nhắn mới",module,Magento_MysqlMq
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Không có di tích mới ứng dụng ID cấu hình, không thể tiếp tục với sự kiện định kỳ báo cáo",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Sự kết hợp các di tích mới đòi hỏi các đại lý newrelic-php5 mà chưa được cài đặt. Thêm                          thông tin về cài đặt các đại lý có sẵn <a target=""_blank"" href=""%1""> ở đây</a>.",module,Magento_NewRelicReporting
 "New Relic Reporting Section","Phần báo cáo Di tích mới",module,Magento_NewRelicReporting
 "New Relic Reporting","Báo cáo di tích mới",module,Magento_NewRelicReporting
@@ -10571,8 +10571,8 @@ Save,"Lưu lại",module,Magento_Staging
 "This update not exists.","Bản cập nhật này không tồn tại.",module,Magento_Staging
 "Content Staging Dashboard","Content Staging Dashboard",module,Magento_Staging
 "The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started.",module,Magento_Staging
-"Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update.","Future Update in this time range already exists. 
+"Future Update in this time range already exists.
+                            Select a different range to add a new Future Update.","Future Update in this time range already exists.
                             Select a different range to add a new Future Update.",module,Magento_Staging
 "Cannot save Update.","Cannot save Update.",module,Magento_Staging
 "Edit Existing Update","Chỉnh sửa các bản cập nhật sẵn có",module,Magento_Staging
@@ -12691,3 +12691,4 @@ Footer,Footer,theme,frontend/Magento/luma
 "Account Dashboard","Trang tổng quan tài khoản",theme,frontend/Magento/luma
 "Address Book","Sổ địa chỉ",theme,frontend/Magento/luma
 "Account Information","Thông tin tài khoản",theme,frontend/Magento/luma
+"Price","Giá"
